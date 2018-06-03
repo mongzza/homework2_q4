@@ -16,7 +16,7 @@ int fib(int n)
 int main()
 {
   printf("Hello world!\n");
-  printf("%d\n", fib(5));
-  printf("%d\n", sum(5));
+  printf("%d\n", fib(10));
+  printf("%d\n", sum(10));
   return 0;
 }
